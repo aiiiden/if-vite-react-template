@@ -28,7 +28,7 @@ export default function IndexPage() {
           Currently, it is based on Next.js and Tailwind CSS.
         </p>
         <a
-          href="https://github.com/IterateFast-Labs/if-next-template"
+          href="https://github.com/IterateFast-Labs/if-vite-template"
           target="_blank"
           className={buttonVariants({
             className: 'gap-2',
